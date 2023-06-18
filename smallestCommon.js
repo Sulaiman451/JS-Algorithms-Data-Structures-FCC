@@ -20,5 +20,9 @@ function smallestCommons(arr) {
 smallestCommons([1, 5]);
 
 /* Original Problem
+function smallestCommons(arr) {
+  return arr;
+}
 
+smallestCommons([1,5]);
 */
